@@ -137,7 +137,7 @@ xgboost
 The detailed methodology, physics background, and mid-term results are documented in:
 
 ```
-report/mid_project_report.pdf
+mid_project_report.pdf
 ```
 
 
