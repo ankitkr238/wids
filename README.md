@@ -1,7 +1,7 @@
-
+### Predicting Physics Observables at the LHC using Machine Learning on Advanced Collider Data
 ##  Project Overview
 
-This repository contains the code, workflow, and documentation for a **mproject** focused on the classification of **Prompt**, **Non-Prompt**, and **Background** heavy-flavor candidates using **Boosted Decision Trees (BDTs)**.
+This repository contains the code, workflow, and documentation for a **machine learning project** focused on the classification of **Prompt**, **Non-Prompt**, and **Background** heavy-flavor candidates using **Boosted Decision Trees (BDTs)**.
 
 The study is performed in **exclusive transverse momentum (pT) bins** to ensure pT-dependent modeling and to avoid kinematic bias. Only **topological variables** are used for training, while **kinematic variables** are reserved for validation and diagnostic studies.
 
