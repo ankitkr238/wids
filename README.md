@@ -137,7 +137,7 @@ xgboost
 The detailed methodology, physics background, and  results are documented in:
 
 ```
-Predicting Physics Observables at the LHC using Machine Learning on Advanced Collider Data.pdf
+Final Project report.pdf
 ```
 
 
