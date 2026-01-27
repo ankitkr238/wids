@@ -134,10 +134,10 @@ xgboost
 
 ##  Report
 
-The detailed methodology, physics background, and mid-term results are documented in:
+The detailed methodology, physics background, and  results are documented in:
 
 ```
-mid_project_report.pdf
+Predicting Physics Observables at the LHC using Machine Learning on Advanced Collider Data.pdf
 ```
 
 
